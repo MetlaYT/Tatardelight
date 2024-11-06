@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "tatardelight:echpochmak"
+  },
+  "result": "tatardelight:cooked_echpochmak",
+  "experience": 0.1,
+  "cookingtime": 100
+}

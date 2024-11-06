@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#R#",
+    "RYR",
+    "#R#"
+  ],
+  "key": {
+    "#": {
+      "item": "tatardelight:potatocubics"
+    },
+    "R": {
+      "item": "tatardelight:beffcubics"
+    },
+    "Y": {
+      "item": "farmersdelight:wheat_dough"
+    }
+  },
+  "result": {
+    "item": "tatardelight:echpochmak",
+    "count": 1
+  }
+}
